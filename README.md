@@ -9,7 +9,7 @@
 
 <h4>
   
-[Lista 1 - Recursividade](https://github.com/leo-gremes-ads/ED_S01_E01_Soma-Naturais/blob/main/Lista%201%20-%20Recursividade.pdf) - Exercício 5
+[Lista 1 - Recursividade](https://github.com/leo-gremes-ads/ED_S01_E01_Soma-Naturais/blob/main/Lista%201%20-%20Recursividade.pdf)<br>
 </h4>
 Lista de exercícios para praticar os conceitos de recursividade aprendido em disciplinas dos semestres anteriores juntamente com as explicações e demonstrações realizadas em sala de aula.
 
